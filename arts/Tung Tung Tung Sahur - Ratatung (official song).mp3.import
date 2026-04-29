@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dqy80kdfxvkby"
+path="res://.godot/imported/Tung Tung Tung Sahur - Ratatung (official song).mp3-9992932e7f42a7ae85a7230077f546c7.mp3str"
+
+[deps]
+
+source_file="res://art/Tung Tung Tung Sahur - Ratatung (official song).mp3"
+dest_files=["res://.godot/imported/Tung Tung Tung Sahur - Ratatung (official song).mp3-9992932e7f42a7ae85a7230077f546c7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
